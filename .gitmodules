@@ -1,0 +1,4 @@
+[submodule "my-test-subrepo"]
+	path = my-test-subrepo
+	url = https://github.com/Schtekt/my-test-subrepo.git
+	branch = main
